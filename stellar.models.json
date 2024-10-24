@@ -3,10 +3,8 @@
     {
         "country": "IT", "insignia": "Compass",
         "memoir": "It is of course all the charm and all the beauty of Venice. Water, mirrors not only our souls but also the palaces. Water not only embellishes, water is the source of life. All these multicolored images and generally gilded of the canals of Venice undeniably bring a unique visual dimension to the city. But beyond this romantic and artistic aspect of the canals of Venice are the historical and present day factors.",
-        "language":
-        {
-            "RU":
-            {
+        "language": {
+            "RU": {
                 "title": "Каналы и реки Венеции",
                 "memoir": "В этом, конечно, все очарование и вся красота Венеции. Вода отражает не только наши души, но и дворцы. Вода не только украшает, вода является источником жизни. Все эти разноцветные изображения и позолоченные каналы Венеции, несомненно, придают городу уникальное визуальное измерение. Но за этим романтическим и художественным аспектом каналов Венеции стоят исторические и современные факторы."
             }
@@ -38,11 +36,17 @@
         "country": "FR", "insignia": "Palace",
         "memoir": "To welcome students who come from all over Europe that were grouped together in \"nations\", many colleges were created on the slopes of the Montagne Sainte-Geneviève. Founded by Robert de Sorbon, the master of theology, and recognised by royal power in 1257, it became the main establishment of the Faculty of Theology. The \"Sorbonne\" college gained a considerable reputation, contributing to the European influence of the University of Paris. The teaching places linked to the various other faculties were scattered around the same district, as the colleges grew in number, a continuous movement until the 17th century, at which time libraries and lecture halls were created."
     },
-    "Italian Bombshell":
+    "Couture Boudoir":
     {
-        "country": "IT", "insignia": "Lady", "nsfw": "true", "language":
-        {
-            "RU": { "title": "Сексуальная итальянка" }
+        "insignia": "Lady", "nsfw": "true",
+        "maison": "https://www.coutureboudoir.com",
+        "country": "FR",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
         }
     },
     "Audrey Hepburn":
@@ -51,8 +55,7 @@
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
         "birthday": "May 4, 1929",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Одри Хепберн" }
         }
     },
@@ -62,8 +65,7 @@
         "sizes": "86-61-89", "nsfw": "true",
         "shoe_size": 7.5, "country": "US",
         "birthday": "July 22, 1992",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Селена Гомес" }
         }
     },
@@ -73,8 +75,7 @@
         "sizes": "92-66-89", "nsfw": "true",
         "shoe_size": 9.5, "country": "DE",
         "birthday": "August 12, 1983",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Мерьем Узерли" }
         }
     },
@@ -84,8 +85,7 @@
         "sizes": "87-61-89", "nsfw": "true",
         "shoe_size": 6.5, "country": "US",
         "birthday": "February 19, 1993",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Виктория Джастис" }
         }
     },
@@ -93,8 +93,7 @@
     {
         "country": "US", "nsfw": "true",
         "maison": "https://www.eva-darling.com",
-        "language":
-        {
+        "language": {
             "RU": { "title": "Ева Дарлин" }
         }
     }
