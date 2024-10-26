@@ -1,4 +1,65 @@
 {
+    "Meryem Uzerli":
+    {
+        "height": 1.73, "weight": 58,
+        "sizes": "92-66-89", "nsfw": "true",
+        "shoe_size": 9.5, "country": "DE",
+        "birthday": "August 12, 1983",
+        "language": {
+            "RU": { "title": "Мерьем Узерли" }
+        }
+    },
+    "Selena Gomez":
+    {
+        "height": 1.65, "weight": 54,
+        "sizes": "86-61-89", "nsfw": "true",
+        "shoe_size": 7.5, "country": "US",
+        "birthday": "July 22, 1992",
+        "language": {
+            "RU": { "title": "Селена Гомес" }
+        }
+    },
+    "Audrey Hepburn":
+    {
+        "height": 1.7, "weight": 47,
+        "sizes": "76-51-86", "nsfw": "true",
+        "shoe_size": 10.5, "country": "EU",
+        "birthday": "May 4, 1929",
+        "language": {
+            "RU": { "title": "Одри Хепберн" }
+        }
+    },
+    "Eva Darling":
+    {
+        "country": "US", "nsfw": "true",
+        "maison": "https://www.eva-darling.com",
+        "language": {
+            "RU": { "title": "Ева Дарлин" }
+        }
+    },
+    "Victoria Justice":
+    {
+        "height": 1.66, "weight": 53,
+        "sizes": "87-61-89", "nsfw": "true",
+        "shoe_size": 6.5, "country": "US",
+        "birthday": "February 19, 1993",
+        "language": {
+            "RU": { "title": "Виктория Джастис" }
+        }
+    },
+    "Couture Boudoir":
+    {
+        "insignia": "Lady", "nsfw": "true",
+        "maison": "https://www.coutureboudoir.com",
+        "country": "FR",
+        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+        "language": {
+            "RU": {
+                "title": "Дамская комната",
+                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+            }
+        }
+    },
     "Canals and Rii of Venice":
     {
         "country": "IT", "insignia": "Compass",
@@ -35,66 +96,5 @@
     {
         "country": "FR", "insignia": "Palace",
         "memoir": "To welcome students who come from all over Europe that were grouped together in \"nations\", many colleges were created on the slopes of the Montagne Sainte-Geneviève. Founded by Robert de Sorbon, the master of theology, and recognised by royal power in 1257, it became the main establishment of the Faculty of Theology. The \"Sorbonne\" college gained a considerable reputation, contributing to the European influence of the University of Paris. The teaching places linked to the various other faculties were scattered around the same district, as the colleges grew in number, a continuous movement until the 17th century, at which time libraries and lecture halls were created."
-    },
-    "Couture Boudoir":
-    {
-        "insignia": "Lady", "nsfw": "true",
-        "maison": "https://www.coutureboudoir.com",
-        "country": "FR",
-        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
-        "language": {
-            "RU": {
-                "title": "Дамская комната",
-                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
-            }
-        }
-    },
-    "Audrey Hepburn":
-    {
-        "height": 1.7, "weight": 47,
-        "sizes": "76-51-86", "nsfw": "true",
-        "shoe_size": 10.5, "country": "EU",
-        "birthday": "May 4, 1929",
-        "language": {
-            "RU": { "title": "Одри Хепберн" }
-        }
-    },
-    "Selena Gomez":
-    {
-        "height": 1.65, "weight": 54,
-        "sizes": "86-61-89", "nsfw": "true",
-        "shoe_size": 7.5, "country": "US",
-        "birthday": "July 22, 1992",
-        "language": {
-            "RU": { "title": "Селена Гомес" }
-        }
-    },
-    "Meryem Uzerli":
-    {
-        "height": 1.73, "weight": 58,
-        "sizes": "92-66-89", "nsfw": "true",
-        "shoe_size": 9.5, "country": "DE",
-        "birthday": "August 12, 1983",
-        "language": {
-            "RU": { "title": "Мерьем Узерли" }
-        }
-    },
-    "Victoria Justice":
-    {
-        "height": 1.66, "weight": 53,
-        "sizes": "87-61-89", "nsfw": "true",
-        "shoe_size": 6.5, "country": "US",
-        "birthday": "February 19, 1993",
-        "language": {
-            "RU": { "title": "Виктория Джастис" }
-        }
-    },
-    "Eva Darling":
-    {
-        "country": "US", "nsfw": "true",
-        "maison": "https://www.eva-darling.com",
-        "language": {
-            "RU": { "title": "Ева Дарлин" }
-        }
     }
 }
