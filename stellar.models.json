@@ -1,4 +1,14 @@
 {
+    "Doja Cat":
+    {
+        "height": 1.65, "weight": 55,
+        "sizes": "84-61-97", "nsfw": "true",
+        "shoe_size": 8, "country": "US",
+        "birthday": "October 21, 1995",
+        "language": {
+            "RU": { "title": "Дожа Кэт" }
+        }
+    },
     "Meryem Uzerli":
     {
         "height": 1.73, "weight": 58,
