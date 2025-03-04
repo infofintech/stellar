@@ -1,19 +1,23 @@
 {
-    "Couture Boudoir":
-    {
-        "insignia": "Lady", "nsfw": "true",
-        "maison": "https://www.coutureboudoir.com",
-        "country": "FR",
-        "memoir": "Since I am shooting from a female perspective I know how to make you look your best and most flattering no matter your body type. I only use female stylists/assistants on my boudoir shoots so you'll feel comfortable every step of the way. Your boudoir images will be tasteful and gorgeous. I believe that you are beautiful just as you are right now, and it's my job to show you exactly what makes you beautiful.",
+    "Female Erotic Collection": {
+        "insignia": "Lady", "nsfw": "true", "country": "IT",
+        "memoir": "Beside the stormy sea one day I envied sore the billows tall, Which rushed in eager dense array Enamoured at her feet to fall. How like the billow I desired To kiss the feet which I admired! No, never in the early blaze Of fiery youth’s untutored days So ardently did I desire A young Armida’s lips to press, Her cheek of rosy loveliness Or bosom full of languid fire, - A gust of passion never tore My spirit with such pangs before.",
         "language": {
             "RU": {
-                "title": "Дамская комната",
-                "memoir": "Так как я снимаю с женской точки зрения, я знаю, как сделать так, чтобы вы выглядели наилучшим образом и наиболее лестно, независимо от вашего типа фигуры. Я использую только женщин-стилистов/ассистентов на моих будуарных съемках, чтобы вы чувствовали себя комфортно на каждом этапе. Ваши будуарные снимки будут со вкусом и великолепны. Я верю, что вы прекрасны такими, какие вы есть сейчас, и моя работа — показать вам, что именно делает вас красивыми."
+                "title": "Коллекция женской эротики",
+                "memoir": "Увы, на разные забавы Я много жизни погубил! Но если б не страдали нравы, Я балы б до сих пор любил. Люблю я бешеную младость, И тесноту, и блеск, и радость, И дам обдуманный наряд; Люблю их ножки; только вряд Найдете вы в России целой Три пары стройных женских ног. Ах! долго я забыть не мог Две ножки... Грустный, охладелый, Я всё их помню, и во сне Они тревожат сердце мне."
+            },
+            "GR": {
+                "title": "Γυναικεία Ερωτική Συλλογή",
+                "memoir": "Αλίμονο, έχω σπαταλήσει μεγάλο μέρος της ζωής μου σε διάφορες διασκεδάσεις! Αλλά αν η ηθική δεν είχε υποφέρει, θα εξακολουθούσα να αγαπώ τις μπάλες. Λατρεύω την άγρια ​​νιότη, Και το σφίξιμο, και τη λάμψη, και τη χαρά, Και θα σου δώσω μια στοχαστική στολή. Λατρεύω τα πόδια τους. αλλά είναι απίθανο να βρεις στη Ρωσία τρία ολόκληρα ζευγάρια λεπτά γυναικεία πόδια. Ω! Για πολύ καιρό δεν μπορούσα να ξεχάσω Δύο πόδια... Λυπημένα, κρύα, τα θυμάμαι όλα, και στα όνειρά μου ταράζουν την καρδιά μου."
+            },
+            "CY": {
+                "title": "Γυναικεία Ερωτική Συλλογή",
+                "memoir": "Αλίμονο, έχω σπαταλήσει μεγάλο μέρος της ζωής μου σε διάφορες διασκεδάσεις! Αλλά αν η ηθική δεν είχε υποφέρει, θα εξακολουθούσα να αγαπώ τις μπάλες. Λατρεύω την άγρια ​​νιότη, Και το σφίξιμο, και τη λάμψη, και τη χαρά, Και θα σου δώσω μια στοχαστική στολή. Λατρεύω τα πόδια τους. αλλά είναι απίθανο να βρεις στη Ρωσία τρία ολόκληρα ζευγάρια λεπτά γυναικεία πόδια. Ω! Για πολύ καιρό δεν μπορούσα να ξεχάσω Δύο πόδια... Λυπημένα, κρύα, τα θυμάμαι όλα, και στα όνειρά μου ταράζουν την καρδιά μου."
             }
         }
     },
-    "Doja Cat":
-    {
+    "Doja Cat": {
         "height": 1.65, "weight": 55,
         "sizes": "84-61-97", "nsfw": "true",
         "shoe_size": 8, "country": "US",
@@ -22,8 +26,7 @@
             "RU": { "title": "Дожа Кэт" }
         }
     },
-    "Meryem Uzerli":
-    {
+    "Meryem Uzerli": {
         "height": 1.73, "weight": 58,
         "sizes": "92-66-89", "nsfw": "true",
         "shoe_size": 9.5, "country": "DE",
@@ -32,8 +35,7 @@
             "RU": { "title": "Мерьем Узерли" }
         }
     },
-    "Selena Gomez":
-    {
+    "Selena Gomez": {
         "height": 1.65, "weight": 54,
         "sizes": "86-61-89", "nsfw": "true",
         "shoe_size": 7.5, "country": "US",
@@ -42,8 +44,7 @@
             "RU": { "title": "Селена Гомес" }
         }
     },
-    "Audrey Hepburn":
-    {
+    "Audrey Hepburn": {
         "height": 1.7, "weight": 47,
         "sizes": "76-51-86", "nsfw": "true",
         "shoe_size": 10.5, "country": "EU",
@@ -52,16 +53,14 @@
             "RU": { "title": "Одри Хепберн" }
         }
     },
-    "Eva Darling":
-    {
+    "Eva Darling": {
         "country": "US", "nsfw": "true",
         "maison": "https://www.eva-darling.com",
         "language": {
             "RU": { "title": "Ева Дарлин" }
         }
     },
-    "Victoria Justice":
-    {
+    "Victoria Justice": {
         "height": 1.66, "weight": 53,
         "sizes": "87-61-89", "nsfw": "true",
         "shoe_size": 7, "country": "US",
@@ -70,8 +69,7 @@
             "RU": { "title": "Виктория Джастис" }
         }
     },
-    "Canals and Rii of Venice":
-    {
+    "Canals and Rii of Venice": {
         "country": "IT", "insignia": "Compass",
         "memoir": "It is of course all the charm and all the beauty of Venice. Water, mirrors not only our souls but also the palaces. Water not only embellishes, water is the source of life. All these multicolored images and generally gilded of the canals of Venice undeniably bring a unique visual dimension to the city. But beyond this romantic and artistic aspect of the canals of Venice are the historical and present day factors.",
         "language": {
@@ -81,29 +79,24 @@
             }
         }
     },
-    "Lofoten Islands":
-    {
+    "Lofoten Islands": {
         "country": "NO", "insignia": "Compass",
         "memoir": "Cities like Oslo, Bergen, and Stavanger in particular have become important hubs for both Norwegian and foreign chefs, in addition to aspiring professionals willing to come and learn about the new Nordic cuisine. Trondheim and Trøndelag, European Region of Gastronomy 2022, have become one of the hottest spots for foodies from all over the world."
     },
-    "Meteora":
-    {
+    "Meteora": {
         "country": "GR",
         "insignia": "Corinth",
         "memoir": "Meteora monasteries – the miracle of Greece. Few kilometers northwest of the town of Kalabaka, the impressive rocks of Meteora are rising from the plains of Thessaly been one of the most amazing places in Greece. Many centuries ago, on these gigantic rocks with the breathtaking landscape reaching heights of more than 600 meters, it was formed one of the most important monastic communities of Greece. The Greek word Meteora means “suspended in the air” and this phrase aptly describes these remarkable Greek Orthodox monasteries."
     },
-    "Mediterranean Sea":
-    {
+    "Mediterranean Sea": {
         "country": "GR", "insignia": "Spartan",
         "memoir": "The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin and almost completely enclosed by land: on the north by Southern Europe and Anatolia, on the south by North Africa, on the east by the Levant in West Asia, and on the west almost by the Morocco-Spain border. The Mediterranean has played a central role in the history of Western civilization. Geological evidence indicates that around 5.9 million years ago the Mediterranean was cut off from the Atlantic and was partly or completely desiccated over a period of some 600,000 years during the Messinian salinity crisis before being refilled by the Zanclean flood about 5.3 million years ago."
     },
-    "Montmartre":
-    {
+    "Montmartre": {
         "country": "FR", "insignia": "Palace",
         "memoir": "The second method is to keep a map in your pocket (just in case) and try to lose yourself in the steep and cobbled streets of one of the most historic and interesting neighborhoods in Paris. Remember that the Basilica of Sacre-Coeur (the big white church) sits on the crest of the hill, so as long as you are heading uphill there is little possibility of being lost for long. At the bottom of the hill is the Boulevard de Clichy which is lined with bars, kebab shops, and more sex shops and peep-shows than you can possibly pretend you are not looking at. If you think of a triangle, consider the base of it to be the section of Blvd. de Clichy and Blvd. de Rochechouart between the metro stations Blanche and Anvers. The tip of the triangle would be the Basilica of Sacre-Coeur. The area between these three points is roughly the area of interest."
     },
-    "Sorbonne University":
-    {
+    "Sorbonne University": {
         "country": "FR", "insignia": "Palace",
         "memoir": "To welcome students who come from all over Europe that were grouped together in \"nations\", many colleges were created on the slopes of the Montagne Sainte-Geneviève. Founded by Robert de Sorbon, the master of theology, and recognised by royal power in 1257, it became the main establishment of the Faculty of Theology. The \"Sorbonne\" college gained a considerable reputation, contributing to the European influence of the University of Paris. The teaching places linked to the various other faculties were scattered around the same district, as the colleges grew in number, a continuous movement until the 17th century, at which time libraries and lecture halls were created."
     }
